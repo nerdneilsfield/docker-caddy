@@ -6,4 +6,4 @@ ADD Caddyfile /Caddyfile
 
 EXPOSE 80
 
-CMD ["/usr/bin/caddy","-conf=","/Caddyfile]
+CMD ["/usr/bin/caddy","-conf=","/Caddyfile"]
